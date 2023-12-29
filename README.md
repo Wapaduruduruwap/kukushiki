@@ -1,6 +1,6 @@
 # Last version of the novel
 
-# kukusiki
+# kukushiki
 Таинственное похищение студента радиофака: случайность или нет? Что же необходимо получить инопланетянам от бедного студента - узнаешь, если пройдёшь нашу новеллу.
 # YouGile
 https://ru.yougile.com/board/r4ux5r3tp2hj
