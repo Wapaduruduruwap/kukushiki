@@ -5,7 +5,7 @@
 # YouGile
 https://ru.yougile.com/board/r4ux5r3tp2hj
 # Презентация
-
+https://drive.google.com/drive/folders/1DY1_u0hM5o9v09BXuiZYQ8oZmClaOd4p
 # Аналитика
 https://drive.google.com/drive/folders/189H0bdhH7um0gD8iTKrxAeKuFQPqLiOA
 # Сценарий
